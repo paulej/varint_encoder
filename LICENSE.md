@@ -1,4 +1,6 @@
-# LICENSE (BSD-2)
+# LICENSE
+
+BSD-2-Clause
 
 Copyright 2023 Paul E. Jones <paulej@packetizer.com>
 
